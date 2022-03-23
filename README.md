@@ -15,7 +15,7 @@ In your Tailwind project's `tailwind.config.js` file, add the counter plugin:
 ```js
 // tailwind.config.js
 
-const counter = require('@noahmpauls/counter');
+const counter = require('@noahmpauls/tw-counter');
 
 module.exports = {
   content: [
