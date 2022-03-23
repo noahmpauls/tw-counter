@@ -1,6 +1,6 @@
 {
   "name": "@noahmpauls/tw-counter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Tailwind CSS plugin that adds utility classes for CSS counters.",
   "main": "src/counter.js",
   "repository": {
