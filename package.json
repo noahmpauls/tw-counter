@@ -1,0 +1,25 @@
+{
+  "name": "@noahmpauls/tw-counter",
+  "version": "1.0.0",
+  "description": "A Tailwind CSS plugin that adds utility classes for CSS counters.",
+  "main": "src/counter.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noahmpauls/tw-counter.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "plugin",
+    "tailwind-plugin",
+    "tailwindcss-plugin"
+  ],
+  "author": "Noah Pauls",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "jest-matcher-css": "^1.1.0",
+    "tailwindcss": "^3.0.23"
+  }
+}
